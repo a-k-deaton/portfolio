@@ -5,7 +5,7 @@ Welcome to my portfolio! I’m an engineering physics student passionate about a
 Explore some of the major projects I’ve worked on:
 
 - [NASA Capstone Project](projects/nasa-capstone.md)
-- [Colloidal Quantum Dots (CQDs) Research](projects/cqd-research.md)
+- [Carbon Quantum Dots (CQDs) Research](projects/cqd-research.md)
 - [View all projects](projects/index.md)
 
 ## Publications
