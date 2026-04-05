@@ -11,3 +11,6 @@ just_the_docs:
     heading_level: 2
     placeholder: "Search"
 
+logo: "/assets/headshot.jpg"
+
+
