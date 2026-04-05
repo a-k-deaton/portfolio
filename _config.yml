@@ -1,3 +1,10 @@
-remote_theme: pages-themes/cayman
+remote_theme: pages-themes/minimal
 plugins:
   - jekyll-remote-theme
+
+title: "Abigail Deaton"
+description: ""
+
+# Add this line:
+sass:
+  style: compressed
