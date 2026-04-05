@@ -1,3 +1,8 @@
+---
+title: "Publications"
+nav_order: 3
+---
+
 # Publications
 
 Below are my peer‑reviewed publications.  
