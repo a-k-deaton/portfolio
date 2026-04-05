@@ -1,4 +1,4 @@
-remote_theme: jekyllthemes/cayman-blog
+remote_theme: pages-themes/modernist
 plugins:
   - jekyll-remote-theme
 
