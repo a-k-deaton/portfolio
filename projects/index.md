@@ -5,13 +5,13 @@ Each project has its own page with more details.
 
 ---
 
-### 🚀 NASA Capstone Project
+### NASA Capstone Project
 A systems‑engineering project focused on developing a lunar infrastructure concept.  
 [View project](nasa-capstone.md)
 
 ---
 
-### 🔬 Colloidal Quantum Dots (CQDs) Research
+### Carbon Quantum Dots (CQDs) Research
 Research involving optical characterization, spectroscopy, and materials analysis.  
 [View project](cqd-research.md)
 
