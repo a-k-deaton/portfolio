@@ -4,7 +4,7 @@ has_toc: false
 
 <div style="display:flex; align-items:center; gap:2rem; flex-wrap:wrap;">
 
-  <img src="/assets/headshot.jpg"
+ <img src="{{ site.baseurl }}/assets/headshot.jpg"
        alt="Headshot"
        style="width:180px; border-radius:50%; flex-shrink:0;">
 
