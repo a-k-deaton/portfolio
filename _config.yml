@@ -3,3 +3,7 @@ plugins:
   - jekyll-remote-theme
 
 title: "Abigail Deaton"
+
+just_the_docs:
+  search:
+    placeholder: "Search"
