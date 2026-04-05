@@ -2,7 +2,19 @@
 has_toc: false
 ---
 
-Welcome! I’m an Engineering Physics student with a focus on aerospace systems and applied physics. I enjoy projects that combine analytical modeling with hands‑on engineering, including NASA mission design work and materials‑based sensing research.  
+<div style="display:flex; align-items:center; gap:2rem;">
+
+  <img src="/assets/headshot.jpg"
+       alt="Headshot"
+       style="width:180px; border-radius:50%; flex-shrink:0;">
+
+  <div>
+    <h1>Welcome!</h1>
+    <p>I’m Abby — an Engineering Physics student focused on aerospace systems and hands‑on research. 
+    I love projects that blend physics, engineering, and real‑world problem‑solving, from NASA mission design to experimental materials work.</p>
+  </div>
+
+</div>
 
 Here you’ll find my projects, publications, and the work I’m most proud of.
 
