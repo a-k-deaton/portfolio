@@ -1,3 +1,8 @@
+---
+title: "Projects"
+nav_order: 2
+---
+
 # Projects
 
 Here are some of the major projects I’ve worked on.  
