@@ -1,4 +1,8 @@
-# Abigail Deaton
+---
+layout: home
+title: "Abigail Deaton"
+nav_order: 1
+---
 
 Welcome to my portfolio! I’m an engineering physics student passionate about aerospace and astronomy.
 
