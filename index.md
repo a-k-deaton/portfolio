@@ -1,3 +1,6 @@
+---
+has_toc: false
+---
 
 Welcome to my portfolio! I’m an engineering physics student passionate about aerospace and astronomy.
 
