@@ -1,6 +1,6 @@
-You can download my resume using the link below:
+You can download my CV using the link below:
 
-👉 [Download Resume (PDF)](resume.pdf)
+👉 [Download CV (PDF)](AbigailDeaton_CV.pdf)
 
 ---
 
