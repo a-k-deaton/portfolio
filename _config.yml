@@ -5,5 +5,8 @@ plugins:
 title: "Abigail Deaton"
 
 just_the_docs:
+  search_enabled: true
   search:
+    heading_level: 2
     placeholder: "Search"
+
