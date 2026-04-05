@@ -1,3 +1,8 @@
+---
+title: "Resume"
+nav_order: 4
+---
+
 You can download my CV using the link below:
 
 👉 [Download CV (PDF)](AbigailDeaton_CV.pdf)
