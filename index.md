@@ -2,8 +2,8 @@
 has_toc: false
 ---
 
-Welcome! I’m an Engineering Physics student with a focus on aerospace systems and applied physics.  
-I enjoy projects that combine analytical modeling with hands‑on engineering, including NASA mission design work and materials‑based sensing research.  
+Welcome! I’m an Engineering Physics student with a focus on aerospace systems and applied physics. I enjoy projects that combine analytical modeling with hands‑on engineering, including NASA mission design work and materials‑based sensing research.  
+
 Here you’ll find my projects, publications, and the work I’m most proud of.
 
 ## Projects
